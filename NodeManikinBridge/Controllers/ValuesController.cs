@@ -15,13 +15,20 @@ namespace NodeManikinBridge.Controllers
         public IEnumerable<string> Get()
         {
             LaerdalServerModel lsModelObj = new LaerdalServerModel();
-            string error;
-
-            string address = "10.0.0.135";
-            Boolean connected = lsModelObj.Connect(address, out error);
             Boolean check = lsModelObj.Check();
-            System.Diagnostics.Debug.Write(connected, "note");
             System.Diagnostics.Debug.Write(check, "check");
+            //TODO: GET FROM SESSION, DON'T MAKE NEW CONNECTION
+
+            if (!check)
+            {
+                string error;
+                string address = "10.0.0.135";
+                Boolean connected = lsModelObj.Connect(address, out error);
+                System.Diagnostics.Debug.Write(connected, "note");
+            }
+
+            lsModelObj.PulseOximeter.Value = 1;
+            Boolean isPulseOximeterAdded = lsModelObj.PulseOximeter.Value == 1;
             return new string[] { "Sucessfully invoked Laerdal simulator"};
         }
 

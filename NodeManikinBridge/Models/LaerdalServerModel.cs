@@ -101,8 +101,31 @@ namespace NodeManikinBridge.Models
         /// <returns>Returns true if the connection succeeded, otherwise false</returns>
         public bool Connect(string server, out string error)
         {
-            ManikinName = server;
+            //ManikinName = server;
+            //Manikin = Tools.CreateManikin();
 
+            //// Initialize the object
+            //Manikin.Initialize();
+
+            //Manikin.StartDiscovery();
+            System.Threading.Thread.Sleep(3000);
+
+            IEnumerable<ManikinInfo> servers = Manikin.GetDiscoveryList();
+
+            List<string> list = new List<string>();
+            foreach (ManikinInfo server1 in servers)
+            {
+                if (server1.AddressList.Count() == 0)
+                    continue; // need the IP address
+
+                IPAddress address = server1.AddressList.First().Item1;
+                string serverName = server1.ComputerName + " (" + address.ToString() + ")";
+
+                list.Add(serverName);
+            }
+
+            var test = Manikin.Connect(server, lostConnection);
+            bool check = Manikin.CheckConnection();
             // Try to connect to the manikin using the obtained URI
             if (!Manikin.Connect(server, lostConnection))
             {
@@ -114,6 +137,15 @@ namespace NodeManikinBridge.Models
             return true;
         }
 
+        public Boolean UploadScenario(string theme, string patientProfile)
+        {
+            Boolean scenarioStarted = Manikin.StartScenario(theme, patientProfile);
+            IParameterAppEventBool started = Manikin.GetParameterAppEventBool("Start Simulation");
+            System.Diagnostics.Debug.Write(started, "started");
+            return scenarioStarted;
+        }
+
+        //TODO
         public bool UpateHeartRate(int diastolic, int systolic)
         {
             return true;

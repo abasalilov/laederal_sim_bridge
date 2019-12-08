@@ -30,7 +30,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -41,35 +41,35 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="dnssd_NET">
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\dnssd_NET.dll</HintPath>
+    <Reference Include="LaerdalSimulatorAPI, Version=6.7.7110.22978, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\LaerdalSimulatorAPI.dll</HintPath>
     </Reference>
-    <Reference Include="LaerdalSimulatorAPI">
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\LaerdalSimulatorAPI.dll</HintPath>
-    </Reference>
-    <Reference Include="mDNSServices">
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\mDNSServices.dll</HintPath>
+    <Reference Include="mDNSServices, Version=6.7.7110.22563, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\mDNSServices.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="NetClientLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\NetClientLib.dll</HintPath>
+      <HintPath>..\..\Bin\NetClientLib.dll</HintPath>
     </Reference>
-    <Reference Include="NetDataLib, Version=9.6.7110.22683, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="NetCommonLib">
+      <HintPath>..\..\Bin\NetCommonLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NetDataLib">
       <HintPath>..\..\Bin\NetDataLib.dll</HintPath>
     </Reference>
     <Reference Include="NetFileLib, Version=6.7.7110.22684, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\NetFileLib.dll</HintPath>
     </Reference>
-    <Reference Include="NetLicenses, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\NetLicenses.dll</HintPath>
+    <Reference Include="netlicenses">
+      <HintPath>..\..\Bin\netlicenses.dll</HintPath>
     </Reference>
     <Reference Include="NetParamLibCS, Version=6.7.7110.22685, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\NetParamLibCS.dll</HintPath>
+      <HintPath>..\..\Bin\NetParamLibCS.dll</HintPath>
     </Reference>
     <Reference Include="NetRpcLib">
       <HintPath>..\..\Bin\NetRpcLib.dll</HintPath>
@@ -80,6 +80,7 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel.Channels" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -139,8 +140,7 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
-    <Reference Include="UnifiedTranslation, Version=6.7.7110.22925, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="UnifiedTranslation">
       <HintPath>..\..\Bin\UnifiedTranslation.dll</HintPath>
     </Reference>
     <Reference Include="UnifiedWebClientLib">
@@ -242,6 +242,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ScenarioController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -309,7 +310,9 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>

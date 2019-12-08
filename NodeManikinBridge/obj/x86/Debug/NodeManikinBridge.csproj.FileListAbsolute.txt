@@ -60,3 +60,255 @@ C:\Users\aleks_windows\Desktop\COMPILED_Laerdal Simulator SDK Standard 6.7.0.431
 C:\Users\aleks_windows\Desktop\COMPILED_Laerdal Simulator SDK Standard 6.7.0.4312\NodeManikinBridge\NodeManikinBridge\bin\System.Web.Http.Owin.xml
 C:\Users\aleks_windows\Desktop\COMPILED_Laerdal Simulator SDK Standard 6.7.0.4312\NodeManikinBridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.dll
 C:\Users\aleks_windows\Desktop\COMPILED_Laerdal Simulator SDK Standard 6.7.0.4312\NodeManikinBridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll.config
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Owin.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\WebGrease.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\NetCommonLib.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Interop.IWshRuntimeLibrary.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\simbox_lib.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\websocket-sharp.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.pdb
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.xml
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\de\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\en-us\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\es\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\fr\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\it\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\ja\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\ko\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\nl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\pl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\pt-BR\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\bin\zh-CN\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.csprojResolveAssemblyReference.cache
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.Properties.Resources.resources
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.csproj.GenerateResource.Cache
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll.config
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetDataLib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetRpcLib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Owin.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\simbox_client_lib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\UnifiedTranslation.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\UnifiedWebClientLib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\WebGrease.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetCommonLib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Interop.IWshRuntimeLibrary.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\simbox_lib.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\websocket-sharp.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.pdb
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.xml
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\de\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\en-us\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\es\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\fr\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\it\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ja\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ko\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\nl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\pl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\pt-BR\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\zh-CN\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.Properties.Resources.resources
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.csproj.GenerateResource.Cache
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\new\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll.config
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NodeManikinBridge.pdb
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetDataLib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetRpcLib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Owin.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\simbox_client_lib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\UnifiedTranslation.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\UnifiedWebClientLib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\WebGrease.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\NetCommonLib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Interop.IWshRuntimeLibrary.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\simbox_lib.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\websocket-sharp.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Newtonsoft.Json.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Net.Http.Formatting.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Helpers.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.WebHost.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Mvc.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Optimization.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Razor.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Antlr3.Runtime.pdb
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\EntityFramework.SqlServer.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\System.Web.Http.Owin.xml
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\de\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\en-us\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\es\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\fr\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\it\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ja\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\ko\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\nl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\pl\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\pt-BR\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\bin\zh-CN\UnifiedTranslation.resources.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.csprojResolveAssemblyReference.cache
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.Properties.Resources.resources
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.csproj.GenerateResource.Cache
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.dll
+C:\Users\aleks_windows\Desktop\Laerdal Simulator SDK Standard 6.7.0.4312\laederal_sim_bridge\NodeManikinBridge\obj\x86\Debug\NodeManikinBridge.pdb
