@@ -30,7 +30,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -41,13 +41,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LaerdalSimulatorAPI, Version=6.7.7110.22978, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.IWshRuntimeLibrary">
+      <HintPath>..\..\Bin\Interop.IWshRuntimeLibrary.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="LaerdalSimulatorAPI">
       <HintPath>..\..\Bin\LaerdalSimulatorAPI.dll</HintPath>
     </Reference>
-    <Reference Include="mDNSServices, Version=6.7.7110.22563, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="mDNSServices, Version=6.8.7209.21628, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Bin\mDNSServices.dll</HintPath>
+      <HintPath>..\..\dll\mDNSServices.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="NetClientLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
@@ -57,12 +64,13 @@
     <Reference Include="NetCommonLib">
       <HintPath>..\..\Bin\NetCommonLib.dll</HintPath>
     </Reference>
-    <Reference Include="NetDataLib">
+    <Reference Include="NetDataLib, Version=9.6.7209.21754, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Bin\NetDataLib.dll</HintPath>
     </Reference>
     <Reference Include="NetFileLib, Version=6.7.7110.22684, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\vs2010\Laerdal Simulator SDK Standard 6.7.0.4312\Demos\AspNetDemo\Bin\NetFileLib.dll</HintPath>
+      <HintPath>..\..\Bin\NetFileLib.dll</HintPath>
     </Reference>
     <Reference Include="netlicenses">
       <HintPath>..\..\Bin\netlicenses.dll</HintPath>
@@ -243,7 +251,16 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ScenarioController.cs" />
+    <Compile Include="Controllers\set_blood_pressureController.cs" />
+    <Compile Include="Controllers\set_diastolic_blood_pressureController.cs" />
+    <Compile Include="Controllers\set_heart_rateController.cs" />
+    <Compile Include="Controllers\set_open_eyesController.cs" />
+    <Compile Include="Controllers\set_respiratory_rateController.cs" />
+    <Compile Include="Controllers\set_systolic_blood_pressureController.cs" />
+    <Compile Include="Controllers\trigger_asthmaController.cs" />
+    <Compile Include="Controllers\trigger_stateController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\vocalController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -354,7 +371,7 @@
     <OutputPath>bin\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <DebugType>full</DebugType>
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
